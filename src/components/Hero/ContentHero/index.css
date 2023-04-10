@@ -1,0 +1,16 @@
+.hero-content h2 {
+    font-size: 48px;
+    color: white;
+}
+
+.hero-content h3 {
+    font-size: 32px;
+    color: white;
+    font-weight: 600;
+}
+
+.hero-content {
+    position: absolute;
+    top: 80px;
+    left: 40px;
+}

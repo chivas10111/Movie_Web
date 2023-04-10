@@ -1,0 +1,11 @@
+#hero {
+    position: relative;
+    line-height: 0%;
+}
+
+#hero img {
+    max-width: 1500px;
+    width: calc(100%);
+    height: 370px;
+}
+

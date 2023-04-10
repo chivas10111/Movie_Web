@@ -1,0 +1,9 @@
+.list_join_today ul li{
+    list-style: square;
+}
+
+.list_join_today {
+    position: absolute;
+    top: 170px;
+    left: 40px;
+}

@@ -1,0 +1,11 @@
+.content_footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+    padding-top: 20px;
+}
+
+a{
+    color: white;
+}

@@ -1,0 +1,12 @@
+#btn_sign_up {
+    position: absolute;
+    top: 330px;
+    left: 40px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    padding: 8px 16px;
+    transition: linear .1s;
+    font-size: 18px;
+    background-color: purple;
+    color: #fff;
+}
